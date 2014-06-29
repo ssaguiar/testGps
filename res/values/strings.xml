@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Map Test</string>
+    <string name="action_settings">Configs</string>
+    <string name="settings">Configs</string>
+    <string name="locLabel">Localização:</string>
+    <string name="goLabel">Go</string>
+    <string name="latLabel">Lat</string>
+    <string name="longLabel">Long</string>
+    <string name="trackLabel">Track Present Location</string>
+    <string name="satLabel">Sat</string>
+    <string name="mapLabel">Map</string>
+    <string name="place_name">Nome do local</string>
+    <string name="lat_deg">Latitude (o)</string>
+    <string name="lon_deg">Longitude (o)</string>
+    <string name="quit">Sair</string>
+    <string name="help_title">Ajuda</string>
+    <string name="satellite_label">Sat</string>
+    <string name="traffic_label">Tráfego</string>
+    <string name="track_label">trilha</string>
+    <string name="help_text">Este é o arquivo de ajuda.</string>
+    <string name="settings_text">TODO - Configs.</string>
+    <string name="building_label">3D</string>
+    <string name="indoor_label">Indoor</string>
+    <string name="mapme_label">Map Current Location</string>
+    <string name="connected_toast">Serviços de Localização conectados</string>
+    <string name="disconnected_toast">Serviços de Localização desconectados</string>
+    <string name="route_toggle_label">Trilha</string>
+    <string name="eat_toggle_label">Eat</string>
+    <string name="hc_toggle_label">Acesso</string>
+    <string name="nomap_error">Erro: mapa não encontrado</string>
+	<string name="action_geocode">Geocode</string>
+</resources>
